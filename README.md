@@ -20,3 +20,8 @@ You must have a Agate API kEY to use this plugin.  It's free visit [here](http:/
 3. Go to your "installed modules" -> "Agate" and click [Configure]
 4. Enter your API KEY.
 5. Save your settings and you are good to go!
+
+Try How It Works ?
+====================
+
+We have created a demo website for you to test the plugin, feel free to visit [here](http://www.prestashop17.agate.services/) .
