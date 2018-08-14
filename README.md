@@ -24,4 +24,4 @@ You must have a Agate API kEY to use this plugin.  It's free visit [here](http:/
 Try How It Works ?
 ====================
 
-We have created a demo website for you to test the plugin, feel free to visit [here](http://www.prestashop17.agate.services/) .
+We have created a demo website for you to test the plugin, feel free to visit [here](http://www.prestashop17.agate.services/) and feel the live experience.
