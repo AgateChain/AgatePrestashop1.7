@@ -15,10 +15,9 @@ function agatelog($contents) {
   }
 }
 
+// Convert all currency to USD.
 function convertCurToIUSD($url, $amount, $api_key, $currencySymbol) {
     error_log("Entered into Convert Amount");
-
-    // return Agate::convert_irr_to_btc($url, $amount, $signature);
     $ch = curl_init($url.'?api_key='.$api_key.'&currency='.$currencySymbol.'&amount='. $amount);
     curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "GET");
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
